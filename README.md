@@ -1,4 +1,4 @@
-[![gif](assets/aemeath-edit.gif)]
+![gif](assets/aemeath-edit.gif)
 
 <!--
 **raz-banned/raz-banned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
